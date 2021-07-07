@@ -1,0 +1,2 @@
+com/example/groopierecyclerview/BuildConfig.java
+ com.example.groopierecyclerview.BuildConfig
